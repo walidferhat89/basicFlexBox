@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- <label for="search">Search</label> -->
+        <img  class="icon" src="searchIcon.jpg" alt="sample image" style="width: 32px; height: 24px;">
+        <input class="searchbox" type="search" id="search" name="search" placeholder="search here" >
+        <input type="submit" value="search" class="searchButton">
+       
+    </div>
+</body>
+</html>
